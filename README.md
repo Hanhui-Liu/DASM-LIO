@@ -21,4 +21,4 @@ Comparison of partial mapping results between DASM-LIO (top) and VoxelMap (botto
 <div align="center">
     <img src="Trajectory Comparison_00.png" width = 100% >
 </div>
-Comparison of estimated trajectories for different methods on several sequences of the [BotanicGarden dataset](https://github.com/robot-pesg/BotanicGarden). The blue window highlights the details at the start and end points of each sequence. DASM-LIO achieved the best tracking in all sequences.  
+Comparison of estimated trajectories for different methods on several sequences of the [BotanicGarden dataset] (https://github.com/robot-pesg/BotanicGarden). The blue window highlights the details at the start and end points of each sequence. DASM-LIO achieved the best tracking in all sequences.  
