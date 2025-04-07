@@ -10,13 +10,13 @@ In the field of LiDAR-inertial odometry, many works have proposed using surfel m
     <img src="Tree reconstruction_00.png" width = 100% >
 </div>
 Surfel maps in a tree of the NCLT dataset, constructed using different methods. (a) shows the point cloud map; (b) is our distribution-adaptive surfel map constructed by DASM-LIO; (c) is the multi-resolution voxel-based surfel map constructed by VoxelMap. Note the better adaptation of our approach to this particular point cloud.  
-
+<br>
 
 <div align="center">
     <img src="Mapping Comparison_00.png" width = 100% >
 </div>
 Comparison of partial mapping results between DASM-LIO (top) and VoxelMap (bottom) on the NCLT and Newer College datasets. (a) and (e) show the reconstruction results of the parking lot, with (b), (f) providing close-up views of vehicle. (c), (g) depict a plaza surrounding buildings, with (d), (h) showing close-up views of the building walls.  
-
+<br>
 
 <div align="center">
     <img src="Trajectory Comparison_00.png" width = 100% >
